@@ -73,11 +73,28 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 ![Screenshot 2023-09-05 124522](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/4e529d32-da0e-4689-9499-998c7d0b05d2)
+
+
+
+
+
 ![Screenshot 2023-09-05 124533](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/b93e6356-fc31-468d-b36b-a77917f4dc28)
+
+
+
 ![Screenshot 2023-09-05 124603](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/efd586a4-a1ee-4b49-854f-b2128f007624)
+
+
+
 ![Screenshot 2023-09-05 124635](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/388729c1-9f7f-4f9c-abaa-f85edbad25f4)
+
+
+
+
 ![Screenshot 2023-09-05 124656](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/afe8c483-3d7f-4505-9819-cc9e922233e6)
+
 ![Screenshot 2023-09-05 124706](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/48c35cfd-8292-4734-99c0-6ab402d5839f)
+
 ![Screenshot 2023-09-05 124715](https://github.com/s-adhithya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/113497423/2b116765-82a0-46b4-9f59-dafd5a5399e7)
 
 
